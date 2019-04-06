@@ -1,2 +1,2 @@
 # github-pages-comments
-GitalkBlog Comments
+Store blog comments by gitalk
